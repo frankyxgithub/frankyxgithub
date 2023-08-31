@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @frankyxgithub
-- 👀 I’m interested in being a great programmer and open to learning
-- 🌱 I’m currently learning fullstact web development
+- 🌱 I'm a Java & SpringBoot Software Developer - Enterprise
+- 🌱 I’m currently learning fullstack web development
+- 👀 I’m interested in being a great programmer and open to learning and adding values where necessary
 - 💞️ I’m looking to collaborate on web development and other related programming projects
 - 📫 How to reach me on Discord:- @frankyx41 
 
