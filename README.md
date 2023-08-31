@@ -6,6 +6,6 @@
 - 📫 How to reach me on Discord:- @frankyx41 
 
 <!---
-frankyxgithub/frankyxgithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+frankyxgithub/Profile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
