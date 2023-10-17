@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @frankyxgithub
-- 🌱 I'm a Java & SpringBoot Software Engineer - Enterprise
+- 🌱 I'm a Java & Spring Boot Software Engineer - Enterprise
 - 🌱 I’m currently learning fullstack web development
 - 👀 I’m interested in being a great Software Engineer and open to learning and adding values where necessary
 - 💞️ I’m looking to collaborate on software engineering, web development and other related programming projects
